@@ -1,0 +1,87 @@
+body {
+  text-align: center;
+}
+
+div {
+  padding-top: 10px;
+}
+
+input {
+  width: 100%;
+}
+
+footer ul {
+  max-width: 60%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  line-height: 60px;
+  margin: 0 auto;
+}
+
+footer ul li {
+  list-style: none;
+  padding: 1px;
+  color: #000;
+  font-size: 13px;
+}
+
+#card-spacing {
+  padding-top: 0;
+}
+
+#sign-in {
+  text-align: left;
+}
+
+#forget {
+  text-align: left;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.image {
+  background-image: url("https://www.wallpapertip.com/wmimgs/3-36224_bokeh-blur-city-lights-night-colorful-wallpaper-bokeh.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 15%;
+}
+
+.linkedin {
+  color: #0077b5;
+  width: 5%;
+  margin: 200px auto auto;
+  text-align: left;
+  position: relative;
+  right: 133px;
+}
+.new {
+  color: #fff;
+  font-size: larger;
+  font-weight: 500;
+  margin: 20px auto auto;
+  text-align: center;
+}
+.card-css {
+  box-shadow: 0 4px 8px 0 rgba(58, 43, 43, 0.5),
+    0 6px 20px 0px rgba(167, 147, 147, 0.5);
+}
+.card-body-padding {
+  padding: 30px;
+}
+
+.linkedin-join {
+  color: #0077b5;
+}
+
+.in {
+  color: #fff;
+  background: #0077b5;
+}
+
+.footer-in {
+  color: #fff;
+  background: #000;
+}
